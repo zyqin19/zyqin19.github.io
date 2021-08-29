@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyun Qin / M.E."
+title                    : "Zheyun Qin / Ph.D. candidate"
 title_separator          : "-"
 name                     : &name "Zheyun Qin"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zheyun Qin"
   avatar           : "profile.png"
-  bio              : "M.E. student in School of Software, Shandong University"
+  bio              : "Ph.D. candidate in School of Software, Shandong University"
   location         : "Jinan, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zyqin19@163.com"
+  email            : "zyqin@mail.sdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
