@@ -20,9 +20,9 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 
 **Education :**
 
-2019.09-present: Ph.D. candidate in Software Engineering. Shandong University. Supervisor: Prof.Yilong Yin .
+2019.09-present: Ph.D. candidate in Shandong University.
 
-2015.09-2019.06: B.E. in  Shandong University.
+2015.09-2019.06: B.E. in Shandong University.
 
 
 
