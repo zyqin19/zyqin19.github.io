@@ -37,6 +37,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
    Learning Hierarchical Embedding for Video Instance Segmentation. ACM Multimedia 2021 (CCF A). [paper](https://doi.org/10.1145/3474085.3475342)
    
 3. Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
+
    Learning Disentangled Representation for Self-supervised Video Object Segmentatio. Neurocomputing. (中科院二区)
 
 4. Xiaoming Xi, Xianjing Meng, **Zheyun Qin**, Xiushan Nie, Yilong Yin, Xinjian Chen. 
