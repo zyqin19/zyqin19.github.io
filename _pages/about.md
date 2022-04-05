@@ -38,7 +38,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
    
 3. Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
 
-   Learning Disentangled Representation for Self-supervised Video Object Segmentatio. Neurocomputing. (中科院二区)
+   Learning Disentangled Representation for Self-supervised Video Object Segmentatio. Neurocomputing. (中科院二区) [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231222000856)
 
 4. Xiaoming Xi, Xianjing Meng, **Zheyun Qin**, Xiushan Nie, Yilong Yin, Xinjian Chen. 
 
