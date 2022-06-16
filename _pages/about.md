@@ -28,10 +28,6 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 
 ## Publications
 
-1. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Yilong Yin; Jianbing Shen. 
-
-   A Graph Matching Perspective with Transformers on Video Instance Segmentation. CVPR 2022 (CCF A). 
-
 2. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Xiantong Zhen; Yilong Yin. 
 
    Learning Hierarchical Embedding for Video Instance Segmentation. ACM Multimedia 2021 (CCF A). [paper](https://doi.org/10.1145/3474085.3475342)
