@@ -29,7 +29,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 ## Publications
 1. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Dongfang Liu, Yilong Yin; Wenguan Wang.
 
-   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023, (JCR Q1).
+   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023, (JCR Q1). [[paper]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123456)
 
 2. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Yilong Yin; Jianbing Shen. 
     
