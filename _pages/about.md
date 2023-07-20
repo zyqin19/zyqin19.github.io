@@ -33,7 +33,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 
 2. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Yilong Yin; Jianbing Shen. 
     
-   Exposing the Self-supervised Space-Time Correspondence Learning via Graph Kernels. AAAI 2023 (CCF A).
+   Exposing the Self-supervised Space-Time Correspondence Learning via Graph Kernels. AAAI 2023 (CCF A). [[paper]](https://doi.org/10.1609/aaai.v37i2.25304)
 
 3. **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Xiantong Zhen; Yilong Yin. 
 
