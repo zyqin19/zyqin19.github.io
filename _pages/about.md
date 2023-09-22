@@ -28,6 +28,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 
 ## Publications
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
+  
   Unified 3D Segmenter As Prototypical Classifiers. NeurIPS 2023, (CCF A). 
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Dongfang Liu, Yilong Yin; Wenguan Wang.
