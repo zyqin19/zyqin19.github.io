@@ -30,7 +30,7 @@ Computer Vision; Deep Learning; Video Analysis (Video Object/Instance Segmentati
 
 + **Zheyun Qin**; Xiankai Lu; Dongfang Liu; Xiushan Nie; Yilong Yin; Jianbing Shen; Senior Member; Alexander C. Loui
 
-  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023, (CCF A)
+  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023, (CCF A). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
 
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
   
