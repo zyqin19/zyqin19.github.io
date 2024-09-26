@@ -27,9 +27,15 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 ## Recent News:
 
-2024/09/19: My doctoral thesis won the Excellent Degree Thesis Award, ACM Jinan.
+2024/09/19: My doctoral thesis was awarded the Excellent Degree Thesis Award by ACM Jinan.
 
-2024/07/16: One paper co-directed by me has been accepted by ACM MM'25. Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
+2024/07/16: A paper co-directed by me has been accepted for publication in ACM MM'25 (CCF A). Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
+
+2024/05: I was recognized as the Provincial Outstanding Student of Shandong Provincial Colleges and Universities for the academic year 2023.
+
+2024/01: I was honored as the Outstanding Graduate of Shandong Province.
+
+2023/12: I received the Academic Star Nomination Award from Shandong University.
 
 ## Publications
 
