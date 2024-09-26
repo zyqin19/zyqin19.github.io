@@ -27,7 +27,7 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 ## Recent News:
 
-2024/09/19: My doctoral thesis won the ACM Jinan Excellent Doctoral Thesis Award.
+2024/09/19: My doctoral thesis won the Excellent Degree Thesis Award, ACM Jinan.
 
 2024/07/16: One paper co-directed by me has been accepted by ACM MM'25. Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
 
