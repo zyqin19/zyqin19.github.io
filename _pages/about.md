@@ -18,14 +18,17 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 
 **Education :**
+
 2024.06-present: Postdoctoral in Shandong University.
 
-2019.09-2024.06: Ph.D. in Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Prof. Xiankai Lu]
+2019.09-2024.06: Ph.D. in Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Prof. Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
 2015.09-2019.06: B.E. in Shandong University.
 
-## Recent News
+## Recent News:
+
 2024/09/19: My doctoral thesis won the ACM Jinan Excellent Doctoral Thesis Award.
+
 2024/07/16: One paper co-directed by me has been accepted by ACM MM'25. Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
 
 ## Publications
@@ -36,7 +39,7 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
   
-  Unified 3D Segmenter As Prototypical Classifiers. NeurIPS 2023, (CCF A). 
+  Unified 3D Segmenter As Prototypical Classifiers. NeurIPS 2023, (CCF A). [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/916cb4e1aeafaa0757953c9bacd17337-Paper-Conference.pdf)
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Dongfang Liu, Yilong Yin; Wenguan Wang.
 
@@ -52,7 +55,7 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 + **Zheyun Qin**; Xiaoming Xi; Yilong Yin.
 
-  Distribution-Aware Contrastive Learning for Robust Medical Image Segmentation. ICASSP (CCF B).
+  Distribution-Aware Contrastive Learning for Robust Medical Image Segmentation. ICASSP 2024 (CCF B).[[paper]](https://ieeexplore.ieee.org/abstract/document/10446000/)
    
 + Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
 
