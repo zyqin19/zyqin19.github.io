@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheyun Qin / Ph.D. candidate"
+title                    : "Zheyun Qin / Postdoctoral Research Fellow"
 title_separator          : "-"
 name                     : &name "Zheyun Qin"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zheyun Qin"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in School of Software, Shandong University"
-  location         : "Jinan, China"
+  bio              : "Postdoctoral Research Fellow in Shandong University"
+  location         : "Qingdao, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.cz/citations?user=Kp6ek-kAAAAJ"
