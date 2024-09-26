@@ -19,7 +19,7 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 **Education :**
 
-2024.06-present: Postdoctoral in Shandong University.
+2024.06-Present: Postdoctoral in Shandong University.
 
 2019.09-2024.06: Ph.D. in Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Prof. Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
@@ -35,7 +35,7 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 + **Zheyun Qin**; Xiankai Lu; Dongfang Liu; Xiushan Nie; Yilong Yin; Jianbing Shen; Senior Member; Alexander C. Loui
 
-  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023, (CCF A, IF:10.6). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
+  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023, (CCF A, **IF:10.6**). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
 
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
   
