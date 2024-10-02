@@ -27,6 +27,8 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 ## Recent News:
 
+2024/10/02: A paper co-directed by me has been accepted for publication in KBS (中科院一区，IF：8.038). Congratulations to [Zhaohui Li](https://time.sdu.edu.cn/info/1069/2059.htm).
+
 2024/09/19: My doctoral thesis was awarded the Excellent Degree Thesis Award by ACM Jinan.
 
 2024/07/16: A paper co-directed by me has been accepted for publication in ACM MM'25 (CCF A). Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
