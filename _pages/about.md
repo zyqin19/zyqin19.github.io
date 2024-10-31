@@ -29,11 +29,11 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 2024/10：One paper accepted to Journal of Computer Research and Development (in Chinese).
 
-2024/10/02: One paper co-directed by me has been accepted for publication in KBS (中科院一区，IF：8.038). Congratulations to [Zhaohui Li](https://time.sdu.edu.cn/info/1069/2059.htm).
+2024/10/02: One paper co-directed by me accepted to KBS (中科院一区，IF：8.038). Congratulations to [Li Zhaohui](https://time.sdu.edu.cn/info/1069/2059.htm).
 
 2024/09/19: My doctoral thesis was awarded the Excellent Degree Thesis Award by ACM Jinan.
 
-2024/07/16: One paper co-directed by me has been accepted for publication in ACM MM'25 (CCF A). Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
+2024/07/16: One paper co-directed by me accepted to ACM MM'25 (CCF A). Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
 
 2024/05: I was recognized as the Provincial Outstanding Student of Shandong Provincial Colleges and Universities for the academic year 2023.
 
