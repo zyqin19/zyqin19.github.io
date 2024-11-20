@@ -27,6 +27,10 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 
 ## Recent News:
 
+2024/11: We are very grateful to receive a new grant from Qingdao Postdoctoral Innovation Project 
+
+2024/11: Grateful to receive a new grant from China Postdoctoral Science Foundation
+
 2024/11：Our team won the second prize in the Vision Application Challenge of Shandong University Students' Artificial Intelligence Competition, congratulations to Zhang Qihao!
 
 2024/10：One paper accepted to Journal of Computer Research and Development (in Chinese).
@@ -42,6 +46,11 @@ Graph Learning: Graph Representation learning; Fairness Graph Learning
 2024/01: I was honored as the Outstanding Graduate of Shandong Province.
 
 2023/12: I received the Academic Star Nomination Award from Shandong University.
+
+## Funding
++ General Program of China Postdoctoral Science Foundation
+
++ Qingdao postdoctoral Innovation Project (First Calss)
 
 ## Publications
 
