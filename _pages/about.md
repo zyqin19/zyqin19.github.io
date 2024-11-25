@@ -12,9 +12,11 @@ Since June 2024, I am a postdoctoral fellow at the School of Computer Science an
 
 **Research Direction**：
 
-Computer Vision: Video Understanding and Analysis; 3D Scene Understanding; Medical Image Analysis
+Machine Perception: Video/Point Clouds Understanding and Analysis; 3D Scene Understanding
 
 Graph Learning: Graph Representation learning; Fairness Graph Learning
+
+AI for Science: Medical Image Analysis; RNA structure prediction
 
 
 **Education :**
