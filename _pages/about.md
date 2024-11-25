@@ -16,7 +16,7 @@ Machine Perception: Video/Point Clouds Understanding and Analysis
 
 Graph Learning: Graph Representation learning; Fairness Graph Learning
 
-AI for Science: Medical Image Analysis; RNA structure prediction
+AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 
 **Education :**
