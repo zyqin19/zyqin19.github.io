@@ -12,7 +12,7 @@ Since June 2024, I am a postdoctoral fellow at the School of Computer Science an
 
 **Research Direction**：
 
-Machine Perception: Video/Point Clouds Understanding and Analysis; 3D Scene Understanding
+Machine Perception: Video/Point Clouds Understanding and Analysis
 
 Graph Learning: Graph Representation learning; Fairness Graph Learning
 
