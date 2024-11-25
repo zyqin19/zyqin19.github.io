@@ -21,7 +21,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 **Education :**
 
-2024.06-Present: Postdoctoral in Shandong University.
+2024.06-Present: Postdoctoral Research Fellow in Shandong University.
 
 2019.09-2024.06: Ph.D. in Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Prof. Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
@@ -33,15 +33,15 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 2024/11: Grateful to receive a new grant from China Postdoctoral Science Foundation
 
-2024/11：Our team won the second prize in the Vision Application Challenge of Shandong University Students' Artificial Intelligence Competition, congratulations to Zhang Qihao!
+2024/11：Our team won the second prize in the Vision Application Challenge of Shandong University Students' Artificial Intelligence Competition, congratulations to Qihao Zhang!
 
 2024/10：One paper accepted to Journal of Computer Research and Development (in Chinese).
 
-2024/10: One paper co-directed by me accepted to KBS (中科院一区，IF：8.038). Congratulations to [Li Zhaohui](https://time.sdu.edu.cn/info/1069/2059.htm).
+2024/10: One paper co-directed by me accepted to KBS (中科院一区，IF：8.038). Congratulations to [Zhaohui Li](https://time.sdu.edu.cn/info/1069/2059.htm).
 
 2024/09: My doctoral thesis was awarded the Excellent Degree Thesis Award by ACM Jinan.
 
-2024/07: One paper co-directed by me accepted to ACM MM'25 (CCF A). Congratulations to [Chen Lu](https://time.sdu.edu.cn/info/1069/2056.htm).
+2024/07: One paper co-directed by me accepted to ACM MM'25 (CCF A). Congratulations to [Lu Chen](https://time.sdu.edu.cn/info/1069/2056.htm).
 
 2024/05: I was recognized as the Provincial Outstanding Student of Shandong Provincial Colleges and Universities for the academic year 2023.
 
