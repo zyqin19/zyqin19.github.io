@@ -44,7 +44,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 2024/07: One paper co-directed by me accepted to ACM MM'25 (CCF A). Congratulations to [Lu Chen](https://time.sdu.edu.cn/info/1069/2056.htm).
 
-2024/07：I have joined the School of Computer Science and Technology at Shandong University as a postdoctoral fellow in the Special Autonomous Category.
+2024/07：I have joined the School of Computer Science and Technology at Shandong University as a specially funded postdoctoral research fellow.
 
 2024/06: I have been awarded the PhD degree in Engineering!
 
