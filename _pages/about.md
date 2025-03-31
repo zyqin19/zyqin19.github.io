@@ -83,13 +83,17 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
    Learning Hierarchical Embedding for Video Instance Segmentation. ACM Multimedia 2021 (CCF A). [[paper]](https://doi.org/10.1145/3474085.3475342)
 
++ 秦者云, 卢宪凯, 聂秀山, 尹义龙
+
+  基于结构关系建模的自监督图表示学习[J]. 软件学报 2025.
+
 + **Zheyun Qin**; Xiaoming Xi; Yilong Yin.
 
   Distribution-Aware Contrastive Learning for Robust Medical Image Segmentation. ICASSP 2024 (CCF B).[[paper]](https://ieeexplore.ieee.org/abstract/document/10446000/)
    
-+ **Zheyun Qin**; Lu Xiankai, Xi Xiaoming, Ren Chunxiao, Nie Xiushan, and Yin Yilong.
++ 秦者云, 卢宪凯, 袭肖明, 任春晓, 聂秀山, 尹义龙.
 
-   Self-Supervised Graph Topology-Imbalance Learning Based on Random Walk Paths.  Journal of Computer Research and Development (in Chinese) 2024 (CCF A). 
+  基于随机游走路径的自监督图拓扑不平衡学习[J]. 计算机研究与发展 2024. DOI: 10.7544/issn1000-1239.202330813
 
 + Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
 
