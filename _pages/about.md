@@ -28,6 +28,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University.
 
 ## Recent News:
+2025/03: One paper about Graph Representation Learning is accepted by 软件学报. 
+
 2025/03: A patent for an invention on uncertainty modeling has been officially granted.
 
 2024/11: Honored to receive the First Prize of Shandong Province AI Natural Science Award from the ShanDong Association of Artificial Intelligence.
