@@ -108,3 +108,30 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 + Qing Xu, Xiaoming Xi, Xianjing Meng, **Zheyun Qin**, Xiushan Nie, Yongjian Wu, Dongsheng Zhou, Yi Qu, Chenglong Li, YiLong Yin.
 
    Difficulty-aware Bi-network with Spatial Attention Constrained Graph for Axillary Lymph Node Segmentation. SCIENCE CHINA Information Sciences (CCF B), 2020. [[paper]](https://doi.org/10.1007/s11432-020-3079-8)
+
+## Services
+
+### Reviewer
+
+Knowledge-based Systems (KDS) 
+
+Engineering Applications of Artificial Intelligence (EAAI) 
+
+Pattern Recognition (PR) 
+
+Image and Vision Computing
+
+Computers and Electrical Engineering
+
+CVPR 2024 2025
+
+ICCV 2025
+
+Neueips 2025
+
+AAAI 2024 
+
+IJCAI 2025
+
+ACM MM 2024 2025
+
