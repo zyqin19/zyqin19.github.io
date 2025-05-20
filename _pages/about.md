@@ -28,6 +28,10 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University.
 
 ## Recent News:
+2025/05: Serving as a Youth Editor for Advanced Technology in Neuroscience.
+
+2025/04: Serving as the workshop co-chair of IEEE PRMVAI 2025. I am looking forward to gathering with all experts and scholars in Loudi, China.
+
 2025/03: One paper about Graph Representation Learning is accepted by 软件学报. 
 
 2025/03: A patent for an invention on uncertainty modeling has been officially granted.
@@ -110,6 +114,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
    Difficulty-aware Bi-network with Spatial Attention Constrained Graph for Axillary Lymph Node Segmentation. SCIENCE CHINA Information Sciences (CCF B), 2020. [[paper]](https://doi.org/10.1007/s11432-020-3079-8)
 
 ## Services
+Youth Editor of Advanced Technology in Neuroscience (ATN)
 
 ### Reviewer
 
