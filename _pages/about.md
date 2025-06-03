@@ -23,7 +23,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 2019.09-2024.06: Ph.D. in Shandong University, advised by [Prof. Yilong Yin](https://faculty.sdu.edu.cn/ylyin) and [Prof. Xiankai Lu](https://faculty.sdu.edu.cn/luxiankai/zh_CN/index.htm).
 
-2015.09-2019.06: B.E. in Shandong University, advised by [Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
+2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
 2025/05: Serving as a Youth Editor for Advanced Technology in Neuroscience.
