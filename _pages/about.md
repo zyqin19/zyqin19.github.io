@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/06: Serving as a Youth Editor for Journal of Changzhou University (Natural Science Edition)
+
 2025/05: Serving as a Youth Editor for Advanced Technology in Neuroscience.
 
 2025/04: Serving as the workshop co-chair of IEEE PRMVAI 2025. I am looking forward to gathering with all experts and scholars in Loudi, China.
@@ -113,6 +115,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 ## Services
 Youth Editor of Advanced Technology in Neuroscience (ATN)
+
+Youth Editor of Journal of Changzhou University (Natural Science Edition)
 
 ### Reviewer
 
