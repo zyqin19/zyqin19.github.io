@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/06: One paper is accepted to ICCV (CCF A).
+
 2025/06: Serving as a Youth Editor for Journal of Changzhou University (Natural Science Edition)
 
 2025/05: Serving as a Youth Editor for Advanced Technology in Neuroscience.
@@ -69,9 +71,13 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 ## Publications
 
++ **Zheyun Qin**, Deng Yu, Chuanchen Luo, Zhumin Chen 
+  
+  Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation. ICCV 2025 (CCF A).
+
 + **Zheyun Qin**; Xiankai Lu; Dongfang Liu; Xiushan Nie; Yilong Yin; Jianbing Shen; Senior Member; Alexander C. Loui
 
-  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023, (CCF A, **IF:10.6**). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
+  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023 (CCF A, **IF:10.6**). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
 
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
   
@@ -79,7 +85,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Dongfang Liu, Yilong Yin; Wenguan Wang.
 
-   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023, (中科院一区Top期刊, **IF:11.8**). [[paper]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123456)
+   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023 (中科院一区Top期刊, **IF:11.8**). [[paper]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123456)
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Yilong Yin; Jianbing Shen. 
     
