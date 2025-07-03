@@ -67,7 +67,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 ## Funding
 + General Program of China Postdoctoral Science Foundation
 
-+ Qingdao postdoctoral Innovation Project (First Calss)
++ Qingdao postdoctoral Innovation Project
 
 ## Publications
 
