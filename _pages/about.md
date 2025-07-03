@@ -132,6 +132,8 @@ Engineering Applications of Artificial Intelligence (EAAI)
 
 Pattern Recognition (PR) 
 
+Neurocomputing
+
 Image and Vision Computing
 
 Computers and Electrical Engineering
@@ -148,3 +150,6 @@ IJCAI 2025
 
 ACM MM 2024 2025
 
+WACV 2026
+
+Pacific Graphics 2025
