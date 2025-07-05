@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/07: One paper is accepted to ACM MM (CCF A).
+
 2025/06: One paper is accepted to ICCV (CCF A).
 
 2025/06: Serving as a Youth Editor for Journal of Changzhou University (Natural Science Edition)
@@ -70,6 +72,10 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 + Qingdao postdoctoral Innovation Project
 
 ## Publications
+
++ **Zheyun Qin**, Deng Yu, Yang Shi, Qiangchang Wang, Zhumin Chen
+
+  Video Instance Segmentation by Weighted Structure Inference. ACM MM 2025 (CCF A).
 
 + **Zheyun Qin**, Deng Yu, Chuanchen Luo, Zhumin Chen 
   
