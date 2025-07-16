@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/07: I am honored to be funded by the Postdoctoral Fellowship Program of CPSF.
+
 2025/07: One paper is accepted to ACM MM (CCF A).
 
 2025/06: One paper is accepted to ICCV (CCF A).
@@ -67,6 +69,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2023/12: I received the Academic Star Nomination Award from Shandong University.
 
 ## Funding
++ Postdoctoral Fellowship Program of CPSF
+
 + General Program of China Postdoctoral Science Foundation
 
 + Qingdao postdoctoral Innovation Project
