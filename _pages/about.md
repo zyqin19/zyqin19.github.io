@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/07: Serving as a Program Committee for AAAI-26.
+
 2025/07: I am honored to be funded by the Postdoctoral Fellowship Program of CPSF.
 
 2025/07: One paper is accepted to ACM MM (CCF A).
@@ -79,15 +81,15 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 + **Zheyun Qin**, Deng Yu, Yang Shi, Qiangchang Wang, Zhumin Chen
 
-  Video Instance Segmentation by Weighted Structure Inference. ACM MM 2025 (CCF A).
+  Video Instance Segmentation by Weighted Structure Inference. ACM Multimedia 2025 (CCF A).
 
 + **Zheyun Qin**, Deng Yu, Chuanchen Luo, Zhumin Chen 
   
-  Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation. ICCV 2025 (CCF A).
+  Sliced Wasserstein Bridge for Open-Vocabulary Video Instance Segmentation. ICCV 2025 Highlight (CCF A).
 
 + **Zheyun Qin**; Xiankai Lu; Dongfang Liu; Xiushan Nie; Yilong Yin; Jianbing Shen; Senior Member; Alexander C. Loui
 
-  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023 (CCF A, **IF:10.6**). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
+  Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning. TIP 2023 (CCF A). [[paper]](https://doi.org/10.1109/TIP.2023.3328485)
 
 + **Zheyun Qin**; Cheng Han; Xiankai Lu; Qifan Wang; Xiushan Nie; Yilong Yin.
   
@@ -95,7 +97,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Dongfang Liu, Yilong Yin; Wenguan Wang.
 
-   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023 (中科院一区Top期刊, **IF:11.8**). [[paper]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123456)
+   Coarse-to-Fine Video Instance Segmentation with Factorized Conditional Appearance Flows. JAS 2023 (中科院一区Top期刊). [[paper]](https://www.ieee-jas.net/en/article/doi/10.1109/JAS.2023.123456)
 
 + **Zheyun Qin**; Xiankai Lu; Xiushan Nie; Yilong Yin; Jianbing Shen. 
     
@@ -132,7 +134,11 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 ## Services
 Youth Editor of Advanced Technology in Neuroscience (ATN)
 
-Youth Editor of Journal of Changzhou University (Natural Science Edition)
+Youth Editor of AI+ Journal
+
+Youth Editor of Changzhou University Journal (Natural Science Edition)
+
+Program Committee for AAAI-26
 
 ### Reviewer
 
