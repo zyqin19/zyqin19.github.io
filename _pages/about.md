@@ -26,8 +26,6 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
-2025/07: Serving as a Program Committee for AAAI-26.
-
 2025/07: I am honored to be funded by the Postdoctoral Fellowship Program of CPSF.
 
 2025/07: One paper is accepted to ACM MM (CCF A).
@@ -138,9 +136,7 @@ Youth Editor of AI+ Journal
 
 Youth Editor of Changzhou University Journal (Natural Science Edition)
 
-Program Committee for AAAI-26
-
-### Reviewer
+### Program Committee & Reviewer
 
 Knowledge-based Systems (KDS) 
 
@@ -160,7 +156,7 @@ ICCV 2025
 
 Neueips 2025
 
-AAAI 2024 
+AAAI 2024 2026
 
 IJCAI 2025
 
