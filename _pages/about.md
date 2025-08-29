@@ -26,6 +26,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2025/08: Grateful to receive a new grant from National Natural Science Foundation of China (NSFC).
+
 2025/07: I am honored to be funded by the Postdoctoral Fellowship Program of CPSF.
 
 2025/07: One paper is accepted to ACM MM (CCF A).
@@ -46,7 +48,7 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 
 2024/11: We are very grateful to receive a new grant from Qingdao Postdoctoral Innovation Project 
 
-2024/11: Grateful to receive a new grant from China Postdoctoral Science Foundation
+2024/11: Grateful to receive a new grant from China Postdoctoral Science Foundation (CPSF).
 
 2024/11：Our team won the second prize in the Vision Application Challenge of Shandong University Students' Artificial Intelligence Competition, congratulations to Qihao Zhang!
 
@@ -69,6 +71,8 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2023/12: I received the Academic Star Nomination Award from Shandong University.
 
 ## Funding
++ Young Scientists Fund (C) of NSFC
+
 + Postdoctoral Fellowship Program of CPSF
 
 + General Program of China Postdoctoral Science Foundation
@@ -133,6 +137,10 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 Youth Editor of Advanced Technology in Neuroscience (ATN)
 
 Youth Editor of AI+ Journal
+
+Youth Editor of Journal of Xi an University of Posts and Telecommunications
+
+Youth Editor of Chengdu University Journal (Natural Science Edition)
 
 Youth Editor of Changzhou University Journal (Natural Science Edition)
 
