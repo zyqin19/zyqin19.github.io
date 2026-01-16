@@ -26,6 +26,12 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
+2026/01: One paper about Graph Faieness is accepted to INFORM SOFTWARE TECH.
+
+2026/01: Honored to have my doctoral dissertation recognized as a Shandong Provincial Outstanding Doctoral Dissertation.
+
+2025/09: Honored to be funded by the Shandong Postdoctoral Science Foundation.
+
 2025/08: Grateful to receive a new grant from National Natural Science Foundation of China (NSFC).
 
 2025/07: I am honored to be funded by the Postdoctoral Fellowship Program of CPSF.
@@ -120,6 +126,10 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 + 秦者云, 卢宪凯, 袭肖明, 任春晓, 聂秀山, 尹义龙.
 
   基于随机游走路径的自监督图拓扑不平衡学习[J]. 计算机研究与发展 2024. DOI: 10.7544/issn1000-1239.202330813
+
++ Shuhan Liu; **Zheyun Qin**; Xuan Hou; Yining Wang; Ziwen Wang; Zhaohui Peng.
+
+  Fairness-Aware Graph Representation Learning through Bias Disentanglement. Information and Software Technology 2025. (中科院二区)
 
 + Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
 
