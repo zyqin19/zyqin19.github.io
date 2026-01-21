@@ -26,8 +26,6 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 2015.09-2019.06: B.E. in Shandong University, advised by [Assoc. Prof. Zhenping Yi](https://faculty.sdu.edu.cn/yizhenping/zh_CN/index.htm).
 
 ## Recent News:
-2026/01: One paper about Graph Faieness is accepted to ICASSP 2026. Congratulations to Shuhan Liu.
-
 2026/01: One paper about Graph Faieness is accepted to INFORM SOFTWARE TECH. Congratulations to Shuhan Liu.
 
 2026/01: Honored to have my doctoral dissertation recognized as a Shandong Provincial Outstanding Doctoral Dissertation.
@@ -132,10 +130,6 @@ AI for Science: Medical Image Analysis; RNA Structure Prediction
 + Shuhan Liu; **Zheyun Qin**; Xuan Hou; Yining Wang; Ziwen Wang; Zhaohui Peng.
 
   Fairness-Aware Graph Representation Learning through Bias Disentanglement. Information and Software Technology 2025. (中科院二区)
-
-+ Shuhan Liu, **Zheyun Qin**, Yining Wang, Zhaohui Peng.
-
-  Fairness-Aware Graph Representation Learning Through Low-Frequency Bias Separation. ICASSP 2026.
 
 + Wenjie Hou, **Zheyun Qin**, Xiaoming Xi, Xiankai Lu, Yilong Yin.
 
