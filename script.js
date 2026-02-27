@@ -355,7 +355,7 @@ function getVenueShortName(venueStr, year) {
     let suffix = '';
     
     // Check if it is a conference that needs year suffix
-    const conferences = ['NeurIPS', 'CVPR', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM'];
+    const conferences = ['NeurIPS', 'MM', 'CVPR', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM'];
     for (const conf of conferences) {
         if (s.includes(conf)) {
             // Get last two digits of year
@@ -375,6 +375,7 @@ function getVenueShortName(venueStr, year) {
     // Journals or specific conferences
     if (s.includes('TDSC')) return 'IEEE TDSC';
     if (s.includes('TMC')) return 'IEEE TMC';
+	if (s.includes('TIP')) return 'IEEE TIP';
     if (s.includes('JSAC')) return 'IEEE JSAC';
     if (s.includes('TGCN')) return 'IEEE TGCN';
     if (s.includes('LNET')) return 'IEEE LNET';
@@ -400,6 +401,8 @@ function getVenueFullName(venueStr, year) {
     // Journal Full Names Mapping (No Year)
     if (s.includes('TDSC')) return 'IEEE Transactions on Dependable and Secure Computing';
     if (s.includes('TMC')) return 'IEEE Transactions on Mobile Computing';
+	if (s.includes('TIP')) return 'IEEE Transactions on Image Processing';
+	if (s.includes('JAS')) return 'IEEE/CAA Journal of Automatica Sinica';
     if (s.includes('JSAC')) return 'IEEE Journal on Selected Areas in Communications';
     if (s.includes('TGCN')) return 'IEEE Transactions on Green Communications and Networking';
     if (s.includes('TNSE')) return 'IEEE Transactions on Network Science and Engineering';
@@ -416,7 +419,9 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('GLOBECOM')) return `IEEE Global Communications Conference (GLOBECOM${yearSuffix})`;
     if (s.includes('INFOCOM')) return `IEEE International Conference on Computer Communications (INFOCOM${yearSuffix})`;
     if (s.includes('MOBICOM')) return `Annual International Conference on Mobile Computing and Networking (MobiCom${yearSuffix})`;
-    
+    if (s.includes('ICASSP')) return `IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP${yearSuffix})`;
+	if (s.includes('MM')) return `ACM International Conference on Multimedia (MM ${yearSuffix})`;
+	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP ${yearSuffix})`;
     if (s.toLowerCase().includes('arxiv')) return 'arXiv preprint';
     
     return s;
@@ -429,13 +434,13 @@ function getCCFRank(fullName, originalVenue) {
     if (v.includes('tdsc') || v.includes('dependable and secure') || 
         v.includes('tmc') || v.includes('mobile computing') || 
         v.includes('aaai') || v.includes('neurips') || 
-        v.includes('cvpr') || v.includes('iccv') || 
-        v.includes('infocom') || v.includes('jsac')) {
+        v.includes('cvpr') || v.includes('iccv') || v.includes('mm') ||
+        v.includes('infocom') || v.includes('jsac') || v.includes('tip')) {
         return 'A';
     }
     
     // CCF-B
-    if (v.includes('icra')) {
+    if (v.includes('icra') || v.includes('icassp')) {
         return 'B';
     }
     

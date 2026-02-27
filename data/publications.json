@@ -1,7 +1,7 @@
 [
   {
     "title": "A Stochastic Interpolants Method for Unifying Individual and Counterfactual Fairness in Graphs",
-    "authors": "Jiayi Fan, <strong>Zheyun Qin</strong>, Hangyuan Du, Xiaoming Xi, Haoliang Sun, Zhongyi Han, Yilong Yin",
+    "authors": "Jiayi Fan, <strong>Zheyun Qin✉</strong>, Hangyuan Du, Xiaoming Xi, Haoliang Sun, Zhongyi Han, Yilong Yin",
     "venue": "CVPR 2025",
     "year": "2026",
     "highlight": "Poster",
@@ -101,7 +101,7 @@
   {
     "title": "Self-supervised Graph Representation Learning via Structural Relation Modeling",
     "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiushan Nie, Yilong Yin",
-    "venue": "Journal of Software 2025",
+    "venue": "软件学报",
     "year": "2025",
     "highlight": "",
     "thumbnail": "",
@@ -112,7 +112,7 @@
   {
     "title": "Self-supervised Graph Topological Imbalance Learning via Random Walk Paths",
     "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiaoming Xi, Chunxiao Ren, Xiushan Nie, Yilong Yin",
-    "venue": "Journal of Computer Research and Development 2024",
+    "venue": "计算机研究与发展",
     "year": "2024",
     "highlight": "",
     "thumbnail": "",
