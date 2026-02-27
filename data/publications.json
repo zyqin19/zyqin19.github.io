@@ -38,7 +38,7 @@
     "venue": "TIP 2023",
     "year": "2023",
     "highlight": "",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/tip23.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -49,7 +49,7 @@
     "venue": "NeurIPS 2023",
     "year": "2023",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/neurips23.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -60,7 +60,7 @@
     "venue": "JAS 2023",
     "year": "2023",
     "highlight": "",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/jas23.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -71,7 +71,7 @@
     "venue": "AAAI 2023",
     "year": "2023",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/aaai23.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -82,7 +82,7 @@
     "venue": "ACM MM 2021",
     "year": "2021",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/mm21.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -93,29 +93,29 @@
     "venue": "ICASSP 2024",
     "year": "2024",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/icassp24.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
   },
   {
-    "title": "Self-supervised Graph Representation Learning via Structural Relation Modeling",
-    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiushan Nie, Yilong Yin",
+    "title": "基于结构关系建模的自监督图表示学习",
+    "authors": "<strong>秦者云</strong>, 卢宪凯, 聂秀山, 尹义龙",
     "venue": "软件学报",
     "year": "2025",
     "highlight": "",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/software25.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
   },
   {
-    "title": "Self-supervised Graph Topological Imbalance Learning via Random Walk Paths",
-    "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Xiaoming Xi, Chunxiao Ren, Xiushan Nie, Yilong Yin",
+    "title": "基于随机游走路径的自监督图拓扑不平衡学习",
+    "authors": "<strong>秦者云</strong>, 卢宪凯，袭肖明，任春晓，聂秀山，尹义龙",
     "venue": "计算机研究与发展",
     "year": "2024",
     "highlight": "",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/computer24.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
