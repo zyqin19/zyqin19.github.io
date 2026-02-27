@@ -1,11 +1,11 @@
 [
   {
-    "title": "A Stochastic Interpolants Method for Unifying Individual and Counterfactual Fairness in Graphs",
-    "authors": "Jiayi Fan, <strong>Zheyun Qin✉</strong>, Hangyuan Du, Xiaoming Xi, Haoliang Sun, Zhongyi Han, Yilong Yin",
+    "title": "SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation",
+    "authors": "Jiayi Fan, <strong>Zheyun Qin✉</strong>, Xiaoming Xi, Xiushan Nie, Yilong Yin",
     "venue": "CVPR 2025",
     "year": "2026",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/spot.jpg",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -16,7 +16,7 @@
     "venue": "ACM MM 2025",
     "year": "2025",
     "highlight": "Poster",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/mm25.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -27,7 +27,7 @@
     "venue": "ICCV 2025",
     "year": "2025",
     "highlight": "Spotlight",
-    "thumbnail": "",
+    "thumbnail": "assets/publications/placeholder/iccv25.png",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
