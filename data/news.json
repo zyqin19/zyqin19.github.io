@@ -1,14 +1,106 @@
 [
   {
-    "date": "2025-01-01",
-    "content": "Welcome to my new academic homepage! This template is available on GitHub.",
-    "links": [
-        { "text": "GitHub", "url": "https://github.com/yihangtao/AcaNova-X" }
-    ]
+    "date": "2026-02",
+    "content": "一篇关于视频理解的论文被 CVPR 2026（CCF A 类会议）接收。 祝贺所有作者。"
   },
   {
-     "date": "2024-12-15",
-     "content": "One paper titled 'A Novel Approach to AI' was accepted to CVPR 2025!",
-     "links": []
+    "date": "2026-01",
+    "content": "一篇关于图公平性的论文被 INFORM SOFTWARE TECH 接收。祝贺所有作者。"
+  },
+  {
+    "date": "2026-01",
+    "content": "很荣幸我的博士论文被评为山东省优秀博士学位论文。"
+  },
+  {
+    "date": "2025-09",
+    "content": "很荣幸入选山东省博士后创新人才支持计划。"
+  },
+  {
+    "date": "2025-08",
+    "content": "感谢获得国家自然科学基金青年科学基金C类项目资助。"
+  },
+  {
+    "date": "2025-07",
+    "content": "很荣幸入选2025年度国家资助博士后研究人员计划（B档）。"
+  },
+  {
+    "date": "2025-07",
+    "content": "一篇论文被 ACM MM（CCF A 类会议）接收。"
+  },
+  {
+    "date": "2025-06",
+    "content": "一篇论文被 ICCV（CCF A 类会议）接收。"
+  },
+  {
+    "date": "2025-06",
+    "content": "担任《常州大学学报（自然科学版）》青年编委。"
+  },
+  {
+    "date": "2025-05",
+    "content": "担任《Advanced Technology in Neuroscience》青年编委。"
+  },
+  {
+    "date": "2025-04",
+    "content": "担任 IEEE PRMVAI Workshop 2025 Chair。期待与中国娄底各位专家学者相聚。"
+  },
+  {
+    "date": "2025-03",
+    "content": "一篇关于图表示学习的论文被《软件学报》接收。"
+  },
+  {
+    "date": "2025-03",
+    "content": "一项关于不确定性建模的发明专利已正式授权。"
+  },
+  {
+    "date": "2024-11",
+    "content": "很荣幸获得山东省人工智能学会颁发的山东省人工智能自然科学奖一等奖。"
+  },
+  {
+    "date": "2024-11",
+    "content": "感谢获得青岛市博士后创新项目新资助。"
+  },
+  {
+    "date": "2024-11",
+    "content": "感谢获得中国博士后科学基金面上项目资助。"
+  },
+  {
+    "date": "2024-11",
+    "content": "我们的团队在山东省大学生人工智能竞赛视觉应用挑战赛中荣获二等奖，祝贺张起浩！"
+  },
+  {
+    "date": "2024-10",
+    "content": "一篇论文被《计算机研究与发展》（中文期刊）接收。"
+  },
+  {
+    "date": "2024-10",
+    "content": "一篇由我共同指导的论文被 KBS（中科院一区，影响因子 8.038）接收。祝贺李兆慧。"
+  },
+  {
+    "date": "2024-09",
+    "content": "我的博士论文荣获 ACM 济南分会优秀学位论文奖。"
+  },
+  {
+    "date": "2024-07",
+    "content": "一篇由我共同指导的论文被 ACM MM'25（CCF A 类会议）接收。祝贺陈露。"
+  },
+  {
+    "date": "2024-07",
+    "content": "我已加入山东大学计算机科学与技术学院，担任特别资助博士后研究员。"
+  },
+  {
+    "date": "2024-06",
+    "content": "我已获得工学博士学位！"
+  },
+  {
+    "date": "2024-05",
+    "content": "我被评为 2023 学年山东省普通高等学校省级优秀学生。"
+  },
+  {
+    "date": "2024-01",
+    "content": "我荣获山东省优秀毕业生称号。"
+  },
+  {
+    "date": "2023-12",
+    "content": "我获得山东大学学术之星提名奖。"
   }
 ]

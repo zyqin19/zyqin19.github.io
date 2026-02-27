@@ -1,12 +1,52 @@
 [
   {
     "date": "2025",
-    "title": "Best Paper Award",
-    "org": "International Conference on Computer Vision (ICCV)"
+    "title": "山东省优秀博士学位论文奖",
+    "org": "山东省教育厅"
+  },
+  {
+    "date": "2025",
+    "title": "山东大学优秀博士学位论文奖",
+    "org": "山东大学"
+  },
+  {
+    "date": "2025",
+    "title": "第二届长江经济带高价值专利转化运用大赛铜奖",
+    "org": "国家知识产权局"
+  },
+  {
+    "date": "2025",
+    "title": "山东省人工智能学会优秀博士学位论文奖",
+    "org": "山东省人工智能学会"
   },
   {
     "date": "2024",
-    "title": "Outstanding PhD Student Award",
-    "org": "Your University"
+    "title": "ACM 济南优秀博士毕业论文奖",
+    "org": "ACM 学会"
+  },
+  {
+    "date": "2024",
+    "title": "山东省人工智能科学技术奖一等奖",
+    "org": "山东省人工智能学会"
+  },
+  {
+    "date": "2024",
+    "title": "山东省优秀毕业生",
+    "org": "山东省人社厅"
+  },
+  {
+    "date": "2024",
+    "title": "山东省大学生人工智能大赛二等奖",
+    "org": "山东省科协"
+  },
+  {
+    "date": "2023",
+    "title": "山东省高等学校省级优秀学生",
+    "org": "山东省教育厅"
+  },
+  {
+    "date": "2023",
+    "title": "山东大学研究生学术之星提名奖",
+    "org": "山东大学"
   }
 ]
