@@ -439,12 +439,12 @@ function getCCFRank(fullName, originalVenue) {
         v.includes('tmc') || v.includes('mobile computing') || 
         v.includes('aaai') || v.includes('neurips') || 
         v.includes('cvpr') || v.includes('iccv') || v.includes('mm') ||
-        v.includes('infocom') || v.includes('jsac') || v.includes('tip')) {
+        v.includes('infocom') || v.includes('jsac') || v.includes('tip') || v.includes('www')) {
         return 'A';
     }
     
     // CCF-B
-    if (v.includes('icra') || v.includes('icassp')) {
+    if (v.includes('icra') || v.includes('icassp') || v.includes('tcsvt')) {
         return 'B';
     }
     
