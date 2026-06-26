@@ -2,10 +2,43 @@
   {
     "title": "SPOT: Spatiotemporal Prompt Optimization for Motion-Stabilized MLLM-Guided Video Segmentation",
     "authors": "Jiayi Fan, <strong>Zheyun Qin✉</strong>, Xiaoming Xi, Xiushan Nie, Yilong Yin",
-    "venue": "CVPR 2025",
+    "venue": "CVPR 2026",
     "year": "2026",
     "highlight": "Poster",
     "thumbnail": "assets/publications/placeholder/spot.jpg",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Expanding Intra-modal and Compressing Inter-modal Embedding Space for Incomplete Multimodal Emotion Recognition",
+    "authors": "Zhibin Wu, Wenhao Li, Zheyun Qin, Qiangchang Wang",
+    "venue": "TCSVT 2026",
+    "year": "2026",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval",
+    "authors": "Xuri Ge, Chunhao Wang, Xindi Wang, Zheyun Qin, Zhumin Chen, Xin Xin",
+    "venue": "WWW 2026",
+    "year": "2026",
+    "highlight": "Poster",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "Fine-Grained Features in Any-Shot Learning: A Survey",
+    "authors": "Qiangchang Wang, Wenhao Li, Jinglin Zhang, Zheyun Qin, Linhao Li",
+    "venue": "TAI 2026",
+    "year": "2026",
+    "highlight": "",
+    "thumbnail": "",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
@@ -28,6 +61,17 @@
     "year": "2025",
     "highlight": "Spotlight",
     "thumbnail": "assets/publications/placeholder/iccv25.png",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
+    "title": "A Hybrid Ball Trajectory Prediction Method AcrossMultiple Ball Sports",
+    "authors": "Zhiwei Shi, Chengxi Zhu, Fan Yang, Zheyun Qin",
+    "venue": "RA-L 2025",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "",
     "tags": [
       { "text": "Paper", "link": "#" }
     ]
