@@ -401,14 +401,14 @@ function getVenueFullName(venueStr, year) {
     // Journal Full Names Mapping (No Year)
     if (s.includes('TDSC')) return 'IEEE Transactions on Dependable and Secure Computing';
     if (s.includes('TMC')) return 'IEEE Transactions on Mobile Computing';
-	if (s.includes('TIP')) return 'IEEE Transactions on Image Processing';
-	if (s.includes('JAS')) return 'IEEE/CAA Journal of Automatica Sinica';
+	// if (s.includes('TIP')) return 'IEEE Transactions on Image Processing';
+	// if (s.includes('JAS')) return 'IEEE/CAA Journal of Automatica Sinica';
     if (s.includes('JSAC')) return 'IEEE Journal on Selected Areas in Communications';
     if (s.includes('TGCN')) return 'IEEE Transactions on Green Communications and Networking';
     if (s.includes('TNSE')) return 'IEEE Transactions on Network Science and Engineering';
-	if (s.includes('TCSVT')) return 'IEEE Transactions on Circuits and Systems for Video Technology';
-	if (s.includes('RA-L')) return 'IEEE Robotics and Automation Letters';
-	if (s.includes('TAI')) return 'IEEE Transactions on Artificial Intelligence';
+	// if (s.includes('TCSVT')) return 'IEEE Transactions on Circuits and Systems for Video Technology';
+	// if (s.includes('RA-L')) return 'IEEE Robotics and Automation Letters';
+	// if (s.includes('TAI')) return 'IEEE Transactions on Artificial Intelligence';
     if (s.includes('IoTJ') || s.includes('IoTJ')) return 'IEEE Internet of Things Journal';
     if (s.includes('LNET') || s.includes('LNet')) return 'IEEE Networking Letters';	
     
