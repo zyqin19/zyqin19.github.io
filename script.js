@@ -426,6 +426,13 @@ function getVenueFullName(venueStr, year) {
 	if (s.includes('MM')) return `ACM International Conference on Multimedia (MM ${yearSuffix})`;
 	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP ${yearSuffix})`;
 	if (s.includes('WWW')) return `Proceedings of the ACM Web Conference (WWW ${yearSuffix})`;
+	if (s.includes('TCSVT')) return `IEEE Transactions on Circuits and Systems for Video Technology (TCSVT ${yearSuffix})`;
+	if (s.includes('TAI')) return `IEEE Transactions on Artificial Intelligence (TAI ${yearSuffix})`;
+	if (s.includes('AI+')) return `AI Plus (AI+ ${yearSuffix})`;
+	if (s.includes('RA-L')) return `IEEE Robotics and Automation Letters (RA-L ${yearSuffix})`;
+	if (s.includes('软件学报')) return `软件学报 ${yearSuffix}`;
+	if (s.includes('TIP')) return 'IEEE Transactions on Image Processing (TIP ${yearSuffix})';
+	if (s.includes('JAS')) return 'IEEE/CAA Journal of Automatica Sinica (JAS ${yearSuffix})';
     if (s.toLowerCase().includes('arxiv')) return 'arXiv preprint';
     
     return s;
