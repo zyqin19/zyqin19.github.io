@@ -355,7 +355,7 @@ function getVenueShortName(venueStr, year) {
     let suffix = '';
     
     // Check if it is a conference that needs year suffix
-    const conferences = ['NeurIPS', 'MM', 'CVPR', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM'];
+    const conferences = ['NeurIPS', 'MM', 'CVPR', 'WWW', 'ICCV', 'ECCV', 'ICRA', 'AAAI', 'GLOBECOM', 'INFOCOM', 'MOBICOM'];
     for (const conf of conferences) {
         if (s.includes(conf)) {
             // Get last two digits of year
@@ -406,8 +406,11 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('JSAC')) return 'IEEE Journal on Selected Areas in Communications';
     if (s.includes('TGCN')) return 'IEEE Transactions on Green Communications and Networking';
     if (s.includes('TNSE')) return 'IEEE Transactions on Network Science and Engineering';
+	if (s.includes('TCSVT')) return 'IEEE Transactions on Circuits and Systems for Video Technology';
+	if (s.includes('RA-L')) return 'IEEE Robotics and Automation Letters';
+	if (s.includes('TAI')) return 'IEEE Transactions on Artificial Intelligence';
     if (s.includes('IoTJ') || s.includes('IoTJ')) return 'IEEE Internet of Things Journal';
-    if (s.includes('LNET') || s.includes('LNet')) return 'IEEE Networking Letters';
+    if (s.includes('LNET') || s.includes('LNet')) return 'IEEE Networking Letters';	
     
     // Conference Full Names Mapping (With Year Suffix)
     if (s.includes('NeurIPS')) return `Annual Conference on Neural Information Processing Systems (NeurIPS${yearSuffix})`;
@@ -422,6 +425,7 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('ICASSP')) return `IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP${yearSuffix})`;
 	if (s.includes('MM')) return `ACM International Conference on Multimedia (MM ${yearSuffix})`;
 	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP ${yearSuffix})`;
+	if (s.includes('WWW')) return `Proceedings of the ACM Web Conference (WWW ${yearSuffix})`;
     if (s.toLowerCase().includes('arxiv')) return 'arXiv preprint';
     
     return s;
