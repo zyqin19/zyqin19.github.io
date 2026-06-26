@@ -77,6 +77,17 @@
     ]
   },
   {
+    "title": "A survey on omni-modal language models",
+    "authors": "Lu Chen, Jiajie Mu, Jiarui Wang, Xiao Kang, Xiaoming Xi, <strong>Zheyun Qin✉</strong>",
+    "venue": "AI+ 2025",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "#" }
+    ]
+  },
+  {
     "title": "Reformulating Graph Kernels for Self-supervised Space-Time Correspondence Learning",
     "authors": "<strong>Zheyun Qin</strong>, Xiankai Lu, Dongfang Liu, Xiushan Nie, Yilong Yin, Jianbing Shen, Alexander C. Loui",
     "venue": "TIP 2023",
