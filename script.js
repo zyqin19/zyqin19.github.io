@@ -423,16 +423,17 @@ function getVenueFullName(venueStr, year) {
     if (s.includes('INFOCOM')) return `IEEE International Conference on Computer Communications (INFOCOM${yearSuffix})`;
     if (s.includes('MOBICOM')) return `Annual International Conference on Mobile Computing and Networking (MobiCom${yearSuffix})`;
     if (s.includes('ICASSP')) return `IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP${yearSuffix})`;
-	if (s.includes('MM')) return `ACM International Conference on Multimedia (MM ${yearSuffix})`;
-	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP ${yearSuffix})`;
-	if (s.includes('WWW')) return `Proceedings of the ACM Web Conference (WWW ${yearSuffix})`;
-	if (s.includes('TCSVT')) return `IEEE Transactions on Circuits and Systems for Video Technology (TCSVT ${yearSuffix})`;
-	if (s.includes('TAI')) return `IEEE Transactions on Artificial Intelligence (TAI ${yearSuffix})`;
-	if (s.includes('AI+')) return `AI Plus (AI+ ${yearSuffix})`;
-	if (s.includes('RA-L')) return `IEEE Robotics and Automation Letters (RA-L ${yearSuffix})`;
-	if (s.includes('软件学报')) return `软件学报 ${yearSuffix}`;
-	if (s.includes('TIP')) return 'IEEE Transactions on Image Processing (TIP ${yearSuffix})';
-	if (s.includes('JAS')) return 'IEEE/CAA Journal of Automatica Sinica (JAS ${yearSuffix})';
+	if (s.includes('MM')) return `ACM International Conference on Multimedia (MM${yearSuffix})`;
+	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP${yearSuffix})`;
+	if (s.includes('WWW')) return `Proceedings of the ACM Web Conference (WWW${yearSuffix})`;
+	if (s.includes('TCSVT')) return `IEEE Transactions on Circuits and Systems for Video Technology (TCSVT${yearSuffix})`;
+	if (s.includes('TAI')) return `IEEE Transactions on Artificial Intelligence (TAI${yearSuffix})`;
+	if (s.includes('AI+')) return `AI Plus (AI+${yearSuffix})`;
+	if (s.includes('RA-L')) return `IEEE Robotics and Automation Letters (RA-L${yearSuffix})`;
+	if (s.includes('软件学报')) return `软件学报${yearSuffix}`;
+	if (s.includes('计算机研究与发展')) return `计算机研究与发展${yearSuffix}`;
+	if (s.includes('TIP')) return `IEEE Transactions on Image Processing (TIP${yearSuffix})`;
+	if (s.includes('JAS')) return `IEEE/CAA Journal of Automatica Sinica (JAS${yearSuffix})`;
     if (s.toLowerCase().includes('arxiv')) return 'arXiv preprint';
     
     return s;
